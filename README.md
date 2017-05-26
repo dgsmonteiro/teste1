@@ -17,8 +17,7 @@ Abaixo do grid deverá ter um controle de paginação padrão,
 Você poderá acessar os dados no endpoint ->
 https://reqres.in/api/
  
-** Nesta API a listagem dos usuários é trazida através
- de um HTTP GET no recurso 'user', passando por querystring o argumento 'page' (tipo inteiro), para controlar as páginas de registros **
+# ** Nesta API a listagem dos usuários é trazida através de um HTTP GET no recurso 'user', passando por querystring o argumento 'page' (tipo inteiro), para controlar as páginas de registros **
  
 É preferível usar a API, porém você pode "mockar" simulando
  os dados de usuários.
